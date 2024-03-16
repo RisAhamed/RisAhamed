@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riswan Ahamed
 - 👀 I’m interested in the domain of AI
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate my self in Live and Real World Projects
+- 🌱 I’m currently comitted myself in  Deep Learning
+- 💞️ I’m looking forward to collaborate my self in Live and Real World Projects
 - 📫 How to reach me ...riswanahamed38@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love cat's and snakes 

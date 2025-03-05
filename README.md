@@ -81,3 +81,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RisAhamed.RisAhamed&left_color=hotpink&right_color=darkturquoise"  />
 
 ###
+
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RisAhamed.RisAhamed&left_color=hotpink&right_color=darkturquoise" />
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://profile-counter.glitch.me/RisAhamed/count.svg?" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/3o7bu3V1N6g4T7t0ZK/giphy.gif" />
+</div>
+
+###

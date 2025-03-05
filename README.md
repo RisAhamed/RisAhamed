@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Riswan Ahamed and I'm a  LLM guy</p>
+<p align="left">My name is Riswan Ahamed and I'm a LLM guy</p>
 
 ###
 
@@ -60,25 +60,19 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/ris007" target="_blank">
+  <a href="https://www.linkedin.com/in/ris007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/1039147939974627429" target="_blank">
+  <a href="https://discord.com/users/1039147939974627429" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://riswanaimoney.slack.com/team/U08DF39S6UD" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
-  <a href="riswanahamed38@gmail.com" target="_blank">
+  <a href="mailto:riswanahamed38@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RisAhamed/RisAhamed/output/snake.svg" alt="Snake animation" />
 
 ###
 
